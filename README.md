@@ -1,2 +1,2 @@
 # FIFA21
-An EDA and vizualization of FIFA 21
+An EDA and vizualization of all FIFA games
