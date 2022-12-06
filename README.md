@@ -14,6 +14,7 @@ An EDA of FIFA games (both real world and video).
             
      
 * Applied **Poisson Distribution** for the predictive modelling
+    - If you want to learn more about ** Poisson Distribution **, [check out this](https://github.com/ashioyajotham/FIFA/blob/main/FIFA%20World%20Cup%202022/poisson-distribution.ipynb)
 
 
 * The interesting bit is that an [Oxford math model also predicted Brazil as the winner](https://www.linkedin.com/posts/oxforduni_worldcup-activity-6999329112980914177-9WA2)
