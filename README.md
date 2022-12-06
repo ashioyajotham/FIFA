@@ -17,4 +17,8 @@ An EDA of FIFA games (both real world and video).
 
 
 * The interesting bit is that an [Oxford math model also predicted Brazil as the winner](https://www.linkedin.com/posts/oxforduni_worldcup-activity-6999329112980914177-9WA2)
-![Oxford Mdel](https://github.com/ashioyajotham/FIFA/blob/main/oxford_brazil.jpg)
+![Oxford Model](https://github.com/ashioyajotham/FIFA/blob/main/oxford_brazil.jpg)
+
+
+#### Acknowledgements
+[Frank Andrade](https://towardsdatascience.com/predicting-the-fifa-world-cup-2022-with-a-simple-model-using-python-6b34bdd4f2a5)
